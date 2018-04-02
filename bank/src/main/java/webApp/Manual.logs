@@ -1,0 +1,52 @@
+11/12/2017 11:56:02 devpinoyLogger maxmize the browser
+11/12/2017 11:56:02 devpinoyLogger Implicit wait applied on the driver for 4 seconds
+11/12/2017 11:56:19 devpinoyLogger Opening the website
+11/12/2017 11:56:36 devpinoyLogger click on login button
+11/12/2017 11:56:36 devpinoyLogger Enter the registered EmailAddress
+11/12/2017 11:56:36 devpinoyLogger Enter the registered password
+11/12/2017 11:56:43 devpinoyLogger Click on Login button
+11/12/2017 11:56:46 devpinoyLogger click on New form
+11/12/2017 11:56:46 devpinoyLogger clcik on the name button
+11/12/2017 11:56:47 devpinoyLogger click on First and last anme text
+11/12/2017 11:56:47 devpinoyLogger Enter First Name
+11/12/2017 11:56:47 devpinoyLogger Enter Last Name
+11/12/2017 11:56:48 devpinoyLogger back to  Add a frend menu
+11/12/2017 11:56:48 devpinoyLogger Click on Address button
+11/12/2017 11:56:48 devpinoyLogger lick on Address field text
+11/12/2017 11:56:49 devpinoyLogger filed Street Address
+11/12/2017 11:56:49 devpinoyLogger field  Address line 2
+11/12/2017 11:56:49 devpinoyLogger field city name
+11/12/2017 11:56:49 devpinoyLogger field state/region name
+11/12/2017 11:56:49 devpinoyLogger field zipcode
+11/12/2017 11:56:50 devpinoyLogger click on country dropdown
+11/12/2017 11:56:50 devpinoyLogger Select country from dropdown
+11/12/2017 11:56:50 devpinoyLogger Back to add a Fiel menu
+11/12/2017 11:56:50 devpinoyLogger click on email button
+11/12/2017 11:56:51 devpinoyLogger lick on email adress text field
+11/12/2017 11:56:51 devpinoyLogger send email Address
+11/12/2017 11:56:52 devpinoyLogger Scroll down the page
+11/12/2017 11:56:54 devpinoyLogger Back to add a Fiel menu
+11/12/2017 11:56:54 devpinoyLogger Click on Phone button
+11/12/2017 11:56:54 devpinoyLogger scroll down the page
+11/12/2017 11:56:56 devpinoyLogger click on rating button
+11/12/2017 11:56:56 devpinoyLogger click on price button
+11/12/2017 11:56:56 devpinoyLogger click on website button
+11/12/2017 11:56:57 devpinoyLogger click on form setting
+11/12/2017 11:56:57 devpinoyLogger clear by default name
+11/12/2017 11:56:57 devpinoyLogger Enter form name
+11/12/2017 11:56:57 devpinoyLogger scroll down the page
+11/12/2017 11:57:00 devpinoyLogger click on Share form CTA
+11/12/2017 11:57:01 devpinoyLogger click on Save the form popup alert
+11/12/2017 11:57:08 devpinoyLogger copy the form share link
+11/12/2017 11:57:12 devpinoyLogger Open the forms hare link on new tab
+11/12/2017 11:57:17 devpinoyLogger Scroll down the page
+11/12/2017 11:57:19 devpinoyLogger Verify all the form details page
+11/12/2017 11:57:19 devpinoyLogger close form tab
+11/12/2017 11:57:19 devpinoyLogger back to form page
+11/12/2017 11:57:21 devpinoyLogger Click on Form button
+11/12/2017 11:57:22 devpinoyLogger hover the mouse on more dropdown button
+11/12/2017 11:57:24 devpinoyLogger Click on Delete form
+11/12/2017 11:57:24 devpinoyLogger Send DELETE text on search
+11/12/2017 11:57:25 devpinoyLogger mouse over the Account Button
+11/12/2017 11:57:25 devpinoyLogger click on logout button
+11/12/2017 11:57:29 devpinoyLogger close the browser

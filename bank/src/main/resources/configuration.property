@@ -1,0 +1,7 @@
+browser=chrome
+base_url=https://testingstage.intelligencebank.com
+sauce_url=http://Jam007:648a7b23-d15a-419c-b59a-65fcae2e9cf8@ondemand.saucelabs.com:80/wd/hub
+oncloud=yes
+onjenkins=no
+local_browser=CommonData.Chrome_Name, CommonData.Chrome_Path
+localtest=no
